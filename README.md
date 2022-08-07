@@ -190,9 +190,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@Scherer_Carter](https://twitter.com/scherer_carter) - carterjohnscherer@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/carterscherer/Pico-W-Robotic-Planter.git](https://github.com/carterscherer/Pico-W-Robotic-Planter.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
