@@ -35,7 +35,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">M O T H E R</h3>
 
   <p align="center">
     project_description
@@ -55,7 +55,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>ToC</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -94,7 +94,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Python]]
+* P Y T H O N
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
